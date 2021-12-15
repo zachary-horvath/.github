@@ -1,1 +1,1 @@
-# Default GitHub repo files
+# Default repo files.
